@@ -1,7 +1,10 @@
 export default function Page() {
   return (
     <section>
-      <h2>Hello world</h2>
+      <div>
+        <img src="" alt="" />
+        <h2>Mountain</h2>
+      </div>
     </section>
   )
 }
